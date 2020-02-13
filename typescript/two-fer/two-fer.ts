@@ -1,0 +1,8 @@
+class TwoFer {
+	public static twoFer(name = 'you'): string {
+		// Your code here
+		return `One for ${name}, one for me.`;
+	}
+}
+
+export default TwoFer;
