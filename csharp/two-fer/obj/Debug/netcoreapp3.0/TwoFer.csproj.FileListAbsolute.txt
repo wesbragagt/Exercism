@@ -1,4 +1,0 @@
-/Users/weslleybraga/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.csprojAssemblyReference.cache
-/Users/weslleybraga/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.AssemblyInfoInputs.cache
-/Users/weslleybraga/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.AssemblyInfo.cs
-/Users/weslleybraga/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.csproj.CoreCompileInputs.cache
