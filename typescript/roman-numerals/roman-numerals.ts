@@ -19,12 +19,11 @@ export function toRoman(digit: number) {
     IV: 4,
     I: 1,
   };
-  let output = ''
-  for(let i in romanMatrix){
-    while(digit >= romanMatrix[i]){
-      digit -= romanMatrix[i]
-      output += i
+  return Object.entries(romanMatrix).reduce((output, [romanNumeral, value]) => {
+    while(digit >= value){
+      digit -= value
+      output += romanNumeral
     }
-  }
-  return output
+    return output
+  }, '')
 }
